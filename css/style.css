@@ -790,7 +790,6 @@ a:focus {
     width: 100%;
     height: 100%;
     object-fit: cover;
-  
 }
 
 
@@ -812,14 +811,7 @@ a:focus {
 }
 
 .team .team-img img {
-    width: 255px;
-    height: 430px;
-    
-}
-.team .team-img1 img {
-    width: 255px;
-    height: 430px;
-    filter: drop-shadow(15px 15px 15px rgb(63, 63, 53));
+    width: 100%;
 }
 
 .team .team-text {
